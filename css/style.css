@@ -6,7 +6,7 @@
 }
 .voli{width: 600px;
 	display:block;
-		margin-left: auto;
+	margin-left: auto;
 	margin-right: auto
 }
 body{
@@ -14,7 +14,7 @@ body{
 }
 .p1{
 	color: #99ff33;
-	background-color: red 
+	background-color: black 
 }
 .ttl{
 	color:#ccff33
