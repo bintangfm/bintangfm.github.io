@@ -3,7 +3,11 @@
 	background-color: #99ff33;
 	color:#990033;
 }
-.voli{width: 600px}
+.voli{width: 600px
+	display:block;
+		margin-left: auto;
+	margin-right: auto
+}
 body{
 	background-color: #990033;
 }
