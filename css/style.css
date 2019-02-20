@@ -2,7 +2,8 @@
 	font-family: monospace;
 	background-color: #99ff33;
 	color:#990033;
-	text-align: center
+	text-align: center;
+	font-size: 30
 }
 .voli{width: 600px;
 	display:block;
