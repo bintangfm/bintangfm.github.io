@@ -14,10 +14,12 @@ body{
 }
 .p1{
 	color: #99ff33;
-	background-color: black 
+	background-color: black ;
+	font-family: monospace
 }
 .ttl{
 	color:#ccff33;
-	border-style:dotted;color:white
+	border-style:dotted;color:white;
+	font-family: monospace
 }
 
